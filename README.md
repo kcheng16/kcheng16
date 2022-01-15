@@ -2,7 +2,7 @@
 
 💻 I'm a full-stack developer who specializes in JavaScript, React-Redux, and Ruby on Rails
 
-💼 Check out my favorite project, Paw-perty! Inspired by AirBnB, Paw-perty is a dog-sitting booking application. It is a fully functional site for those fur-parents to look for someone responsible to watch over their fur-babies by searching for listings in various cities, read reviews and book listings, or even become host themselves!
+💼 Check out my favorite project, [Paw-perty](http://paw-perty.herokuapp.com/)! Inspired by AirBnB, Paw-perty is a dog-sitting booking application. It is a fully functional site for those fur-parents to look for someone responsible to watch over their fur-babies by searching for listings in various cities, read reviews and book listings, or even become host themselves!
 
 🍭 Don't forget to check out [Build-CHO-Plate](https://kcheng16.github.io/cho-plate-project/)! It's a interactive game exploring the fundamentals of carbohydrtae counting for diabetic management.
 
