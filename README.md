@@ -12,6 +12,8 @@
 
 📬 Reach out to me at kcheng16@gmail.com
 
+🧑‍💻 View my <a href="https://kcheng16.github.io/">website</a>
+
 🔗 Connect with me on <a href="https://www.linkedin.com/in/kcheng16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kcheng16&show_icons=true&theme=radical)
