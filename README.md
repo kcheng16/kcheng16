@@ -4,7 +4,7 @@
 
 💼 Check out my favorite project, [Paw-perty](http://paw-perty.herokuapp.com/)! Inspired by AirBnB, Paw-perty is a dog-sitting booking application. It is a fully functional site for those fur-parents to look for someone responsible to watch over their fur-babies by searching for listings in various cities, read reviews and book listings, or even become host themselves!
 
-🍭 Don't forget to check out [Build-CHO-Plate](https://kcheng16.github.io/cho-plate-project/)! It's a interactive game exploring the fundamentals of carbohydrtae counting for diabetic management.
+🍭 Don't forget to check out [Build-CHO-Plate](https://kcheng16.github.io/build-cho-plate/)! It's a interactive game exploring the fundamentals of carbohydrtae counting for diabetic management.
 
 ❤️ I'm passionate about nutrition, learning(!), and finding ways of helping others succeed. On my free time you can find me out hiking and capturing all the vitamin-D and landscape photos.
 
